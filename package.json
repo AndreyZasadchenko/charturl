@@ -1,6 +1,6 @@
 {
   "name": "charturl",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple library for generating ChartURL charts ",
   "main": "index.js",
   "scripts": {

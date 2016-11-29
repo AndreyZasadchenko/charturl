@@ -7,7 +7,7 @@ Simple library for generating ChartURL charts
 ```js
 //Getting the new Client object;
 const ChartURL = require('charturl').Client;
-const Client = new ChartURL.Client(CHARTURL_API_KEY);
+const Client = new ChartURL(CHARTURL_API_KEY);
 
 //Sending data to ChartURL
 Client.bulk(data).then(charts => {
