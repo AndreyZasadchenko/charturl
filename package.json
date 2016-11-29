@@ -1,0 +1,19 @@
+{
+  "name": "charturl",
+  "version": "1.0.0",
+  "description": "Simple library for generating ChartURL charts ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyZasadchenko/charturl.git"
+  },
+  "author": "Andrey Zasadchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreyZasadchenko/charturl/issues"
+  },
+  "homepage": "https://github.com/AndreyZasadchenko/charturl#readme"
+}
