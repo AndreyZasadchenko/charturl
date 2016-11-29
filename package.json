@@ -1,6 +1,6 @@
 {
   "name": "charturl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library for generating ChartURL charts ",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AndreyZasadchenko/charturl/issues"
   },
-  "homepage": "https://github.com/AndreyZasadchenko/charturl#readme"
+  "homepage": "https://github.com/AndreyZasadchenko/charturl#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
 }
